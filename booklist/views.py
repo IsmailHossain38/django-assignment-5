@@ -5,7 +5,7 @@ from . import forms
 from django.contrib.auth.decorators import login_required
 from .models  import Books
 # Create your views here.
-@login_required
+
 def bookDetails(request,id):
     book =Books.objects.get(pk=id)
     review = book.reviews.all()
