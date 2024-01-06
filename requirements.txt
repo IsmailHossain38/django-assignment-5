@@ -23,6 +23,9 @@ httpcore
 httpx
 idna
 Kivy
+kivy-deps.angle
+kivy-deps.glew
+kivy-deps.sdl2
 Kivy-Garden
 Library
 MouseInfo
