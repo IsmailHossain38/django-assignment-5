@@ -25,7 +25,9 @@ idna
 Kivy
 kivy-deps.angle
 kivy-deps.glew
+kivy-deps.gstreamer
 kivy-deps.sdl2
+Kivy-examples
 Kivy-Garden
 Library
 MouseInfo
@@ -35,7 +37,7 @@ numpy
 openai
 opencv-python
 openpyxl
-Pillow
+pillow
 Pillow-PIL
 platformdirs
 playsound
