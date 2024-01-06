@@ -71,7 +71,3 @@ typing_extensions
 tzdata
 urllib3
 virtualenv
-kivy
-kivy_deps.angle
-kivy_deps.glew
-kivy_deps.sdl2
