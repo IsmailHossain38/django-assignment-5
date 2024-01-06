@@ -30,8 +30,8 @@ SECRET_KEY = env("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
-# CSRF_TRUSTED_ORIGINS = ['https://library-management-ws7t.onrender.com','https://*.127.0.0.1']
+ALLOWED_HOSTS = ["*"]
+CSRF_TRUSTED_ORIGINS = ['https://librarymanagement-j63g.onrender.com','https://*.127.0.0.1']
 
 
 # Application definition
